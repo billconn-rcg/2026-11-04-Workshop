@@ -4,15 +4,15 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "University of South Dakota"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "ID Weeks 321 - 414 E Clark St, Vermillion, SD"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "ID Weeks 323 - 414 E Clark St, Vermillion, SD"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "42.785186"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-96.924938"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Sept 25 & Oct 2, 2025"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Nov 4 & Nov 18, 2026"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "1:00pm to 4:00pm"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2025-09-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2025-09-02        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2026-10-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2026-10-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Bill Conn"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Ryan Johnson"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["rcg@usd.edu","ryan.johnson@usd.edu","bill.conn@usd.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
@@ -20,7 +20,7 @@ collaborative_notes: https://docs.google.com/document/d/1Whw_MeFRCVIrAbxt3jNFpnw
 pre_workshop_survey:                                    # Link to use for pre workshop survey
 post_workshop_survey: https://rcg.usd.edu/feedback      # Link to use for post workshop survey
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
-what3words: spill.woof.swift          # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
+what3words: skill.healers.coats          # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
